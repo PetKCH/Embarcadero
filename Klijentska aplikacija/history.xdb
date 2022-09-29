@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://www.borland.com/schemas/delphi/10.0/XMLDataBinding">
+	<xs:element name="events" type="eventsType"/>
+	<xs:complexType name="eventsType"><xs:annotation>
+			<xs:appinfo xdb:docElement="events"/>
+		</xs:annotation>
+		<sequence xmlns="http://www.w3.org/2001/XMLSchema">
+			<xs:element name="event" type="eventType" maxOccurs="unbounded"/>
+		</sequence>
+	</xs:complexType>
+	<xs:complexType name="eventType">
+		<sequence xmlns="http://www.w3.org/2001/XMLSchema">
+			<xs:element name="username" type="xs:string"/>
+			<xs:element name="timestamp" type="xs:string"/>
+		</sequence>
+	</xs:complexType>
+</xs:schema>

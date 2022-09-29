@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.341,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.dfm=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.597,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.h=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.341,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.h=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.678,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.h=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.678,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.dfm=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.656,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.h=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.577,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.h=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.766,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.h=.\Unit1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.597,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.dfm=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.741,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.cpp=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.597,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.cpp=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.341,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.cpp=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.678,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.cpp=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.210,C:\Users\Rope\Desktop\CARWASH\Server\Server.cbproj=C:\Users\Rope\Desktop\CARWASH\Server\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.154,=.\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.064,C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\ServerDecrypt.dfm=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Decrypt.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.678,C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Decrypt.dfm=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Unit2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.286,=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Unit3.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.678,C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Decrypt.h=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Unit2.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.254,C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\ServerDecrypt.cpp=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.505,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Project1.cbproj=.\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.064,C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\ServerDecrypt.h=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Decrypt.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.113,=.\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.064,C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\ServerDecrypt.cpp=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Decrypt.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.577,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.cpp=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.656,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.cpp=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.766,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.cpp=.\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.628,=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.656,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.dfm=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.766,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.dfm=.\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.678,C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Decrypt.cpp=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Unit2.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.178,C:\Users\Rope\Desktop\CARWASH\Server\ServerPCH1.h=C:\Users\Rope\Desktop\CARWASH\Server\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.851,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Project1PCH1.h=.\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.817,=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Unit2.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.577,C:\Users\lordv\Documents\Embarcadero\Studio\Server\Unit1.dfm=C:\Users\lordv\Documents\Embarcadero\Studio\Server\Server.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.099,=C:\Users\lordv\Desktop\PROJECT_CARWASH\Server\Unit2.cpp</Transaction>
+    <Transaction>2022/07/11 15:04:26.000.134,C:\Users\Rope\Desktop\projekt carwarh\Server\Unit2.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Server.cpp"/>
+    <File Path="ServerPCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
